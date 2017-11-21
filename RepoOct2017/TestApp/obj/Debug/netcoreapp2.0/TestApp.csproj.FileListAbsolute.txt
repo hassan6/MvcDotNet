@@ -1,0 +1,45 @@
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.deps.json
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.json
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.dev.json
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\bin\Debug\netcoreapp2.0\DataStore.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\bin\Debug\netcoreapp2.0\DataStore.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfo.cs
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\bin\Debug\netcoreapp2.0\BuisnessLayer.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\bin\Debug\netcoreapp2.0\BuisnessLayer.pdb
+D:\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.deps.json
+D:\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.json
+D:\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.dev.json
+D:\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.dll
+D:\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.pdb
+D:\Oct2017\TestApp\bin\Debug\netcoreapp2.0\BuisnessLayer.dll
+D:\Oct2017\TestApp\bin\Debug\netcoreapp2.0\DataStore.dll
+D:\Oct2017\TestApp\bin\Debug\netcoreapp2.0\BuisnessLayer.pdb
+D:\Oct2017\TestApp\bin\Debug\netcoreapp2.0\DataStore.pdb
+D:\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.csprojResolveAssemblyReference.cache
+D:\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.csproj.CoreCompileInputs.cache
+D:\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfoInputs.cache
+D:\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfo.cs
+D:\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.dll
+D:\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.pdb
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.deps.json
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.json
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.dev.json
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.dll
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.pdb
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\netcoreapp2.0\BuisnessLayer.dll
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\netcoreapp2.0\DataStore.dll
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\netcoreapp2.0\BuisnessLayer.pdb
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\netcoreapp2.0\DataStore.pdb
+C:\GitRepos\naser\RepoOct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.csprojResolveAssemblyReference.cache
+C:\GitRepos\naser\RepoOct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.csproj.CoreCompileInputs.cache
+C:\GitRepos\naser\RepoOct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfoInputs.cache
+C:\GitRepos\naser\RepoOct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfo.cs
+C:\GitRepos\naser\RepoOct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.dll
+C:\GitRepos\naser\RepoOct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.pdb

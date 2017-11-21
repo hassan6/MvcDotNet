@@ -1,0 +1,15 @@
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\net452\TestApp.exe
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\net452\TestApp.pdb
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\net452\BuisnessLayer.dll
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\net452\DataStore.dll
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\net452\BuisnessLayer.pdb
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\net452\DataStore.pdb
+C:\GitRepos\naser\RepoOct2017\TestApp\obj\Debug\net452\TestApp.csprojResolveAssemblyReference.cache
+C:\GitRepos\naser\RepoOct2017\TestApp\obj\Debug\net452\TestApp.csproj.CoreCompileInputs.cache
+C:\GitRepos\naser\RepoOct2017\TestApp\obj\Debug\net452\TestApp.AssemblyInfoInputs.cache
+C:\GitRepos\naser\RepoOct2017\TestApp\obj\Debug\net452\TestApp.AssemblyInfo.cs
+C:\GitRepos\naser\RepoOct2017\TestApp\obj\Debug\net452\TestApp.exe
+C:\GitRepos\naser\RepoOct2017\TestApp\obj\Debug\net452\TestApp.pdb
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\net452\EntityFramework.SqlServer.dll
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\net452\EntityFramework.dll
+C:\GitRepos\naser\RepoOct2017\TestApp\bin\Debug\net452\DataStore.dll.config

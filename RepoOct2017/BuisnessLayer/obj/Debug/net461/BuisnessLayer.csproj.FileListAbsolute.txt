@@ -1,0 +1,13 @@
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\bin\Debug\net461\BuisnessLayer.dll
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\bin\Debug\net461\BuisnessLayer.pdb
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\bin\Debug\net461\DataLayer.dll
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\bin\Debug\net461\EntityFramework.dll
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\bin\Debug\net461\DataLayer.pdb
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\bin\Debug\net461\DataLayer.dll.config
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\obj\Debug\net461\BuisnessLayer.csprojResolveAssemblyReference.cache
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\obj\Debug\net461\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\obj\Debug\net461\BuisnessLayer.AssemblyInfoInputs.cache
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\obj\Debug\net461\BuisnessLayer.AssemblyInfo.cs
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\obj\Debug\net461\BuisnessLayer.dll
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\obj\Debug\net461\BuisnessLayer.pdb
+C:\GitRepos\naser\RepoOct2017\BuisnessLayer\bin\Debug\net461\EntityFramework.SqlServer.dll

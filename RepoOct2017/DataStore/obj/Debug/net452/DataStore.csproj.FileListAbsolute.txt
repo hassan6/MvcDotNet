@@ -1,0 +1,10 @@
+C:\GitRepos\naser\RepoOct2017\DataStore\bin\Debug\net452\DataStore.dll
+C:\GitRepos\naser\RepoOct2017\DataStore\bin\Debug\net452\DataStore.pdb
+C:\GitRepos\naser\RepoOct2017\DataStore\obj\Debug\net452\DataStore.csproj.CoreCompileInputs.cache
+C:\GitRepos\naser\RepoOct2017\DataStore\obj\Debug\net452\DataStore.AssemblyInfoInputs.cache
+C:\GitRepos\naser\RepoOct2017\DataStore\obj\Debug\net452\DataStore.AssemblyInfo.cs
+C:\GitRepos\naser\RepoOct2017\DataStore\obj\Debug\net452\DataStore.dll
+C:\GitRepos\naser\RepoOct2017\DataStore\obj\Debug\net452\DataStore.pdb
+C:\GitRepos\naser\RepoOct2017\DataStore\bin\Debug\net452\EntityFramework.SqlServer.dll
+C:\GitRepos\naser\RepoOct2017\DataStore\bin\Debug\net452\EntityFramework.dll
+C:\GitRepos\naser\RepoOct2017\DataStore\bin\Debug\net452\DataStore.dll.config

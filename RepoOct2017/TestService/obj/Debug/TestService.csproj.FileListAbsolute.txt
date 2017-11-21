@@ -1,0 +1,16 @@
+C:\GitRepos\naser\RepoOct2017\TestService\bin\Debug\TestService.exe.config
+C:\GitRepos\naser\RepoOct2017\TestService\bin\Debug\TestService.exe
+C:\GitRepos\naser\RepoOct2017\TestService\bin\Debug\TestService.pdb
+C:\GitRepos\naser\RepoOct2017\TestService\bin\Debug\BuisnessLayer.dll
+C:\GitRepos\naser\RepoOct2017\TestService\bin\Debug\DataLayer.dll
+C:\GitRepos\naser\RepoOct2017\TestService\bin\Debug\EntityFramework.dll
+C:\GitRepos\naser\RepoOct2017\TestService\bin\Debug\BuisnessLayer.pdb
+C:\GitRepos\naser\RepoOct2017\TestService\bin\Debug\DataLayer.pdb
+C:\GitRepos\naser\RepoOct2017\TestService\bin\Debug\DataLayer.dll.config
+C:\GitRepos\naser\RepoOct2017\TestService\obj\Debug\TestService.csprojResolveAssemblyReference.cache
+C:\GitRepos\naser\RepoOct2017\TestService\obj\Debug\TestService.csproj.CoreCompileInputs.cache
+C:\GitRepos\naser\RepoOct2017\TestService\obj\Debug\TestService.exe
+C:\GitRepos\naser\RepoOct2017\TestService\obj\Debug\TestService.pdb
+C:\GitRepos\naser\RepoOct2017\TestService\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitRepos\naser\RepoOct2017\TestService\bin\Debug\EntityFramework.xml
+C:\GitRepos\naser\RepoOct2017\TestService\bin\Debug\EntityFramework.SqlServer.xml
